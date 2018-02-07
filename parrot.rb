@@ -3,4 +3,4 @@
 def parrot(s)
   puts s
   return s
-end 
+end
