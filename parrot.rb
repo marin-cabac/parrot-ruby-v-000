@@ -2,4 +2,5 @@
 # returns the phrase
 def parrot(s)
   puts s
+  return s
 end 
